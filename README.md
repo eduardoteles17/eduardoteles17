@@ -34,4 +34,11 @@
 [![Eduardo Teles GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoteles17&count_private=true&show_icons=true&theme=nord)](https://github.com/eduardoteles17)
 
 <!--START_SECTION:waka-->
+
+```text
+TypeScript   16 hrs 8 mins   ███████████████▒░░░░░░░░░   60.92 %
+JSON         4 hrs 40 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.62 %
+Other        2 hrs 37 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
+```
+
 <!--END_SECTION:waka-->
