@@ -25,8 +25,8 @@
 </div>
 
 ## Social media
-[![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in//eduardo-de-souza-teles-7b1b1a215)](https://www.linkedin.com/in/eduardo-de-souza-teles-7b1b1a215)
-[![My GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/eduardoteles17)](https://github.com/eduardoteles17)
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardoteles17)](https://www.linkedin.com/in/eduardoteles17)
+[![My GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/eduardoteles17)](https:/github.com/eduardoteles17)
 [![My Gitlab](https://img.shields.io/badge/Gitlab-white?style=for-the-badge&logo=gitlab&link=https://gitlab.com/eduardoteles17)](https://gitlab.com/eduardoteles17)
 [![My Email](https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=protonmail&link=mailto:edu.teles@pm.me)](mailto:edu.teles@pm.me)
 
