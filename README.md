@@ -36,9 +36,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   4 hrs 48 mins   ██████████░░░░░░░░░░░░░░░   40.65 %
-fish         1 hr 52 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.81 %
-Other        1 hr 49 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
+TypeScript   6 hrs 51 mins   █████████████▒░░░░░░░░░░░   53.64 %
+Other        1 hr 54 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.93 %
 ```
 
 <!--END_SECTION:waka-->
