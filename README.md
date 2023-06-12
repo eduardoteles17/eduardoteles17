@@ -31,7 +31,7 @@
 [![My Email](https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=protonmail&link=mailto:edu.teles@pm.me)](mailto:edu.teles@pm.me)
 
 ## Analytics
-[![Eduardo Teles GitHub stats]([https://github-readme-stats.vercel.app/api?username=eduardoteles17&count_private=true&show_icons=true&theme=nord](https://github-readme-stats-azure-ten-79.vercel.app/api?username=eduardoteles17&count_private=true&show_icons=true&theme=nord))](https://github.com/eduardoteles17)
+[![Eduardo Teles GitHub stats](https://github-readme-stats-azure-ten-79.vercel.app//api?username=eduardoteles17&count_private=true&show_icons=true&theme=nord)](https://github.com/eduardoteles17)
 
 <!--START_SECTION:waka-->
 
