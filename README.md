@@ -40,11 +40,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform        5 hrs 20 mins   ████████▓░░░░░░░░░░░░░░░░   34.76 %
-TypeScript       4 hrs 30 mins   ███████▒░░░░░░░░░░░░░░░░░   29.26 %
-Markdown         1 hr 42 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.10 %
-Kotlin           1 hr 9 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
-XML              29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+Terraform        5 hrs 1 min     ██████▓░░░░░░░░░░░░░░░░░░   27.22 %
+TypeScript       4 hrs 36 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.00 %
+Kotlin           3 hrs 15 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.61 %
+Markdown         1 hr 40 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
+Rust             1 hr 34 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
 ```
 
 <!--END_SECTION:waka-->
