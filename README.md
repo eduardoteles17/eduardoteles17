@@ -40,11 +40,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin           6 hrs 48 mins   ████████▓░░░░░░░░░░░░░░░░   34.08 %
-TypeScript       4 hrs 44 mins   ██████░░░░░░░░░░░░░░░░░░░   23.74 %
-Terraform        2 hrs 57 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.83 %
-Markdown         1 hr 39 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
-Rust             1 hr 36 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
+Kotlin           6 hrs 48 mins   ███████▓░░░░░░░░░░░░░░░░░   30.31 %
+TypeScript       6 hrs 8 mins    ███████░░░░░░░░░░░░░░░░░░   27.35 %
+Terraform        2 hrs 59 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.30 %
+Markdown         1 hr 37 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
+Rust             1 hr 36 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
 ```
 
 <!--END_SECTION:waka-->
