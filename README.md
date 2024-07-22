@@ -40,11 +40,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform         6 hrs 50 mins   █████████▒░░░░░░░░░░░░░░░   37.24 %
-TypeScript        5 hrs 32 mins   ███████▓░░░░░░░░░░░░░░░░░   30.14 %
-Rust              1 hr 39 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
-Shell Script      48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-Env File          40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+TypeScript        5 hrs 54 mins   ████████████▒░░░░░░░░░░░░   49.33 %
+Rust              1 hr 51 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.49 %
+Terraform         1 hr 20 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 %
+TOML              39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
+Shell Script      27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
 ```
 
 <!--END_SECTION:waka-->
