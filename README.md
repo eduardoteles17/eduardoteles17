@@ -40,11 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go               51 mins         █████████░░░░░░░░░░░░░░░░   36.01 %
-Terraform        46 mins         ████████░░░░░░░░░░░░░░░░░   32.62 %
-YAML             23 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.26 %
-Text             9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
-go.mod           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
