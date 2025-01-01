@@ -40,11 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         59 mins         ███████████████████▓░░░░░   78.75 %
-TypeScript   14 mins         █████░░░░░░░░░░░░░░░░░░░░   19.94 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-Terraform    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
