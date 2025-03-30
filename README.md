@@ -40,11 +40,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other                         21 hrs 22 mins  ██████████████░░░░░░░░░░░   55.79 %
-OpenTofu                      5 hrs 2 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
-TypeScript                    2 hrs 51 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
-Terraform                     2 hrs 12 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
-YAML                          1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+Other                         24 hrs 23 mins  ███████████████▓░░░░░░░░░   62.10 %
+OpenTofu                      5 hrs 50 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.87 %
+Terraform                     2 hrs 12 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
+TypeScript                    1 hr 29 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+YAML                          58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
 ```
 
 <!--END_SECTION:waka-->
