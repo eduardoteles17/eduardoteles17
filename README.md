@@ -40,11 +40,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-OpenTofu                   9 hrs 40 mins   ████████████░░░░░░░░░░░░░   48.23 %
-YAML                       5 hrs           ██████▒░░░░░░░░░░░░░░░░░░   24.98 %
-XML                        1 hr 32 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
-Nginx configuration file   38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
-Env File                   36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+OpenTofu                   8 hrs 26 mins   █████████████░░░░░░░░░░░░   51.78 %
+YAML                       3 hrs 15 mins   █████░░░░░░░░░░░░░░░░░░░░   19.95 %
+XML                        1 hr 28 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
+Nginx configuration file   38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+Markdown                   26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
 ```
 
 <!--END_SECTION:waka-->
