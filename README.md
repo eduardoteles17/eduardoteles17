@@ -40,11 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-OpenTofu         51 mins         ███████████▒░░░░░░░░░░░░░   45.34 %
-YAML             47 mins         ██████████▓░░░░░░░░░░░░░░   42.19 %
-Env File         9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
-GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-TOML             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
