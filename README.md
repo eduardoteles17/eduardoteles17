@@ -40,11 +40,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-OpenTofu          8 hrs 46 mins   ███████▒░░░░░░░░░░░░░░░░░   29.74 %
-TypeScript        4 hrs 23 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.87 %
-YAML              2 hrs 59 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
-Kotlin            2 hrs 54 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
-Docker            2 hrs 23 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
+OpenTofu          9 hrs 41 mins   █████████▒░░░░░░░░░░░░░░░   37.87 %
+YAML              3 hrs 2 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.87 %
+Docker            2 hrs 23 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
+Markdown          1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+Shell Script      1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
 ```
 
 <!--END_SECTION:waka-->
