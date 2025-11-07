@@ -40,11 +40,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-OpenTofu         10 hrs 11 mins  █████████████░░░░░░░░░░░░   52.18 %
-YAML             7 hrs 57 mins   ██████████▒░░░░░░░░░░░░░░   40.72 %
-Env File         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
-TypeScript       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-GitIgnore file   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+OpenTofu         8 hrs 16 mins   ████████████▓░░░░░░░░░░░░   50.86 %
+YAML             6 hrs 25 mins   ██████████░░░░░░░░░░░░░░░   39.51 %
+Env File         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+TypeScript       20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+GitIgnore file   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
 <!--END_SECTION:waka-->
