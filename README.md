@@ -1,3 +1,5 @@
+![](https://analytics.cod3rocket.com/p/qgy99E2zO)
+
 <h1 align="left">Hi <img src="./hi.gif" height="30px">, I'm Eduardo Teles</h1>
 
 - Full stack developer. I ♥ to automate things! 
