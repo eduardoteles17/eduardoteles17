@@ -42,11 +42,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       6 hrs 12 mins   █████████▒░░░░░░░░░░░░░░░   37.66 %
-YAML             2 hrs 26 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 %
-OpenTofu         2 hrs 1 min     ███░░░░░░░░░░░░░░░░░░░░░░   12.27 %
-Kotlin           1 hr 26 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
-Docker           1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+TypeScript       7 hrs 23 mins   ████████▓░░░░░░░░░░░░░░░░   34.68 %
+YAML             3 hrs 37 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.03 %
+Kotlin           2 hrs 45 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 %
+OpenTofu         2 hrs 19 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
+Docker           1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
 ```
 
 <!--END_SECTION:waka-->
