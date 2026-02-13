@@ -42,7 +42,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Kotlin           7 hrs 44 mins   ██████████████▒░░░░░░░░░░   56.96 %
+OpenTofu         1 hr 55 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 %
+YAML             1 hr 17 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
+Java             57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
+TOML             17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
 ```
 
 <!--END_SECTION:waka-->
