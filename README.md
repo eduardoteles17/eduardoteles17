@@ -42,11 +42,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            12 hrs 19 mins        ████████░░░░░░░░░░░░░░░░░   32.60 %
-Markdown          8 hrs 19 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.04 %
-TypeScript        6 hrs 51 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.16 %
-YAML              2 hrs 25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
-Other             2 hrs 23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+Kotlin            9 hrs 45 mins         ███████░░░░░░░░░░░░░░░░░░   27.98 %
+Markdown          9 hrs 12 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.42 %
+TypeScript        5 hrs 59 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.18 %
+YAML              2 hrs 17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+Bash              2 hrs 7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
 ```
 
 <!--END_SECTION:waka-->
